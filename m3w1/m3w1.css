@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.buttonSize {
+    width: 70px;
+    height: 40px;
+}
+
+.firstspace {
+    height: 100px;
+    width: 1400px;
+    background-color: rgb(236, 237, 232);
+    text-align: center;
+    display: flex;
+    line-height: 100px;
+    align-items: center;
+    color: white;
+    letter-spacing: 10px;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px gray;
+}
+
+.titleSpace {
+    margin-top: 10px;
+    display: inline-block;
+    width: 1400px;
+    height: 120px;
+    background-color: beige;
+    margin: auto;
+}
+
+.titleSpace>img {
+    width: 40px;
+    height: 40px;
+}
+
+.fundingnews {
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: 120px;
+    display: flex;
+    align-items: center;
+}
+
+.a {
+    display: inline-block;
+}
+
+.b {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+.c {
+    display: inline-block;
+}

@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    margin: auto;
+}
+
+.backgroundco {
+    width: 1400px;
+    height: 1000px;
+    background-color: whitesmoke;
+}
+
+.hy_background {
+    width: 100%;
+    height: 50%;
+
+}
+
+.imgbox1 {
+    width: 50%;
+    height: 50%;
+    background-color: antiquewhite;
+    display: inline-block;
+    margin-right: -2px;
+    vertical-align: top;
+    border-radius: 10px 0 0 0;
+
+
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+.textbox1 {
+    width: 50%;
+    height: 50%;
+    background-color:rgb(236,237,232);
+    margin-left: -4px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 0 10px 0 0;
+
+}
+
+.imgbox2 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(288, 230, 215) ;
+    display: inline-block;
+    margin-left: -4px;
+    vertical-align: top;
+
+}
+
+.textbox2 {
+    width: 50%;
+    height: 50%;
+    background-color:rgb(236,237,232);
+    margin-right: -2px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 0 0 0 10px;
+
+}
+
+.inner {
+    padding: 3em;
+}
+
+.funding_button {
+    box-sizing: border-box;
+    width: 70px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(198, 211, 185);
+    /* background-color: rgb(288,230,215); */
+    /* background-color: rgb(228, 230, 215); */
+    display: inline-block;
+    margin: 0;
+}
+
+.funding_button:hover {
+    background-color: rgb(157, 167, 136);
+}
+
+/* h3,
+p,
+a,
+b {
+    font-family: GyeonggiBatang;
+    letter-spacing: 2px;
+    line-height: 2em;
+}
+
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GyeonggiBatang';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+} */
